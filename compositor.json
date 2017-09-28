@@ -45,7 +45,7 @@
     {
       "component": "header",
       "heading": "Inclusive Design Workshop",
-      "subhead": null,
+      "subhead": "Learning and collaborating to design for impairment",
       "children": [
         {
           "component": "ui/TweetButton",
